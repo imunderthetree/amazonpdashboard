@@ -143,6 +143,7 @@ Amazon Prime Analysis/
 - **Sankey Diagrams**: Content flow visualization
 - **Animated Bar Charts**: Genre evolution over time
 - **Geographic Choropleth**: Global content distribution
+- **Test Dashboard**: Multi-subplot interactive dashboard with geographic maps, polar charts, and bar visualizations
 
 ### Statistical Outputs
 - Content freshness metrics
